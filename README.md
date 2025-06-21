@@ -1,12 +1,12 @@
 # Chai aur Tailwind - Hands-on Learning
 
-This project is a hands-on learning journey with [Tailwind CSS](https://tailwindcss.com/) inspired by Hitesh Choudhary's [Chai aur Code](https://www.youtube.com/@HiteshChoudharydotcom) channel.
+This project is a hands-on learning journey with [Tailwind CSS](https://tailwindcss.com/) inspired by [College Wallah](https://www.youtube.com/watch?v=_9mTJ84uL1Q) channel.
 
 ## Project Goals
 
 - Practice and understand Tailwind CSS utility classes.
 - Build UI components and layouts using Tailwind CSS.
-- Follow along with Hitesh Choudhary's tutorials for practical learning.
+- Follow along with JavaScript Mastery channels tutorials for practical learning.
 
 ## Getting Started
 
